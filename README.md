@@ -5,7 +5,7 @@ Control Chrome or Chromium easily.
 ## Requirements
 
 - PHP 7.4 or latest
-- Laravel 8.x
+- Laravel 8.x or latest
 - Chrome or Chromium latest version
 
 ## Installation
